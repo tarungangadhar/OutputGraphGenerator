@@ -32,4 +32,8 @@ three different graphs.
  Use the following command and install the necessary packages required
  ```
  pip install matplotlib sympy numpy
+
  ```
+ ![Screenshot_1](https://user-images.githubusercontent.com/98305129/176999062-89e53f7d-ce72-45e4-af86-baad00585eb0.png)
+![Screenshot_2](https://user-images.githubusercontent.com/98305129/176999067-e02940b5-592f-4d81-adda-3f72c6eb029e.png)
+![Screenshot_3](https://user-images.githubusercontent.com/98305129/176999069-af957100-5e1a-4d2f-a832-345de51ccd8c.png)
