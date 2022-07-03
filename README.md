@@ -36,7 +36,7 @@ three different graphs.
  ```
  ## Sample Graphs output for equation 
  ```
- (D+2) x(t) = (3D +5) r(t)System 1.1: (D+2) x(t) = (3D +5) r(t)
+ (D+2) x(t) = (3D +5) r(t)
  ```
  ![Screenshot_1](https://user-images.githubusercontent.com/98305129/176999062-89e53f7d-ce72-45e4-af86-baad00585eb0.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/98305129/176999067-e02940b5-592f-4d81-adda-3f72c6eb029e.png)
