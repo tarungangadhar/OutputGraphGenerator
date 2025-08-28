@@ -1,4 +1,4 @@
-# OutputGraphGenerator
+# LTIC Response Visualizer
 
 Website:- https://huggingface.co/spaces/vtarungangadhar/LTICResponseVisualizer
 
