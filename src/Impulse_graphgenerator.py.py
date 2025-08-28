@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[10]:
-
-
 #SnS Assignment   BT20EEE107 Vadaparthi Tarun Gangadhar 
 import numpy as np
 from matplotlib import pyplot as plt
@@ -106,13 +100,6 @@ graph3.show()
     
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
