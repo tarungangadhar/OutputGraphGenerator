@@ -2,6 +2,7 @@
 
 Website:- https://huggingface.co/spaces/vtarungangadhar/LTICResponseVisualizer
 
+Report:- https://github.com/tarungangadhar/OutputGraphGenerator/blob/main/OgGenerator.pdf
 
 ## Requirements
 
