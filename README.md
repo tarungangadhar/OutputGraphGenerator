@@ -1,5 +1,8 @@
 # OutputGraphGenerator
 
+Website:- https://huggingface.co/spaces/vtarungangadhar/LTICResponseVisualizer
+
+
 ## Requirements
 
 - matplotlib
@@ -43,7 +46,4 @@ three different graphs.
 ![Screenshot_3](https://user-images.githubusercontent.com/98305129/176999069-af957100-5e1a-4d2f-a832-345de51ccd8c.png)
 
 
-
-## Reference Documentation
-[Document.pdf](https://github.com/tarungangadhar/OutputGraphGenerator/files/9032944/BT20EEE107.Tarun.Gangadhar.SnS.Ass1.pdf)
 
